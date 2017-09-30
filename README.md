@@ -32,7 +32,7 @@ If you find that the following list (in `Category` section) is missing an exampl
 
 ## Liscense
 
-State-replay is under [MIT Liscense](https://github.com/10000TB/state-replay/blob/master/LICENSE), The terms of the license are as follows:
+State-replay is under [MIT Liscense](https://github.com/10000TB/Jenkins-Plugin-Examles/blob/master/LICENSE), The terms of the license are as follows:
 
 ```
 MIT License
