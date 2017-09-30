@@ -6,6 +6,7 @@ This is a collection of Jenkins plugin examples, which could be a great start po
 [Usage](#usage)  
 [Motivation](#motivation)  
 [Contribute or Request a new example](#contribute-or-request-a-new-example)  
+[Acknowledgement](#acknowledgement)  
 [Categories](#category)  
 * [Develop a new step in Groovy pipeline](#develop-a-new-step-in-groovy-pipeline)
 
@@ -24,6 +25,9 @@ When I first started looking at how to develop a Jenkins plugin, I spent quite s
 
 ## Contribute or Request a new example  
 If you find that the following list (in `Category` section) is missing an example of such plugin where Jenkins can be extended. Feel free to contribute an example, or open a new issue to request an example.
+
+## Acknowledgement
+Many of the starting examples I put in the list here are directly referenced from their repos on github. Here, I am only doing some commenting, and organizing work to put them together so it is easier for beginners read and learn. Since there are too many of them, I am not doing a creditting accounting here, but simply acknowledging all of them here in this section.
 
 ## Category
 
