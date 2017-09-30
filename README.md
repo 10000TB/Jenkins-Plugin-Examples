@@ -28,7 +28,10 @@ If you find that the following list (in `Category` section) is missing an exampl
 ## Category
 
 ##### Develop a new step in Groovy pipeline
-
+Checkout `workflow-basic-steps-plugin`  
+Representative implementations:  
+`echo` step: `Jenkins-Plugin-Examles/workflow-basic-steps-plugin/src/main/java/org/jenkinsci/plugins/workflow/steps/EchoStep.java`  
+`pwd` step: 
 
 ## Liscense
 
