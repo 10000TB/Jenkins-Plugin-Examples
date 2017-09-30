@@ -3,12 +3,16 @@ This is a collection of Jenkins plugin examples, which could be a great start po
 
 [Usage](#usage)  
 [Motivation](#motivation)  
-[Categories](#category)  
+[Request a new example](#request-a-new-example)
+[Categories](#category)  
 * [Develop a new step in Groovy pipeline](#develop-a-new-step-in-groovy-pipeline)
 
 ## Usage
 
 ## Motivation
+
+## Request a new example  
+If you find that the following list (in `Category` section) is missing an example of plugin where Jenkins can be extended. Feel free to contribute one, or open a new issue to request an example.
 
 ## Category
 
