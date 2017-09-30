@@ -12,7 +12,7 @@ This is a collection of Jenkins plugin examples, which could be a great start po
 ## Motivation
 
 ## Request a new example  
-If you find that the following list (in `Category` section) is missing an example of plugin where Jenkins can be extended. Feel free to contribute one, or open a new issue to request an example.
+If you find that the following list (in `Category` section) is missing an example of such plugin where Jenkins can be extended. Feel free to contribute an example, or open a new issue to request an example.
 
 ## Category
 
