@@ -1,6 +1,8 @@
+![Angry Jenkins Logo](https://github.com/10000TB/Jenkins-Plugin-Examles/blob/master/not-examples-related/fire-jenkins.svg)  
 # Jenkins-Plugin-Examles
-This is a collection of Jenkins plugin examples, which could be a great start point for developing Jenkins plugin.
-
+This is a collection of Jenkins plugin examples, which could be a great start point for getting started with developing Jenkins plugin.  
+  
+  
 [Usage](#usage)  
 [Motivation](#motivation)  
 [Request a new example](#request-a-new-example)
