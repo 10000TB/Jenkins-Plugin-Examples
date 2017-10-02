@@ -4,7 +4,7 @@ This is a collection of Jenkins plugin examples, which could be a great start po
   
   
 [Usage](#usage)  
-[Wishlist](#wishlist)
+[Wishlist](#wishlist)  
 [Motivation](#motivation)  
 [Contribute or Request a new example](#contribute-or-request-a-new-example)  
 [Acknowledgement](#acknowledgement)  
