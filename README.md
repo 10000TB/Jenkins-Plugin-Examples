@@ -1,4 +1,4 @@
-![Angry Jenkins Logo](https://github.com/10000TB/Jenkins-Plugin-Examles/blob/master/not-examples-related/fire-jenkins.svg)  
+![Angry Jenkins Logo](https://github.com/10000TB/Jenkins-Plugin-Examles/blob/master/not-examples-related/ninjenkins.svg)  
 # Jenkins-Plugin-Examles
 This is a collection of Jenkins plugin examples, which could be a great start point for getting started with developing Jenkins plugin. 
   
