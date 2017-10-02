@@ -30,6 +30,16 @@ When I first started looking at how to develop a Jenkins plugin, I spent quite s
 ## Contribute or Request a new example  
 If you find that the following list (in `Category` section) is missing an example of such plugin where Jenkins can be extended. Feel free to contribute an example, or open a new issue to request an example.
 
+**Contribute Guide**:  
+Be sure about what you are contributing!  
+* Avoid duplicate
+* Adding a directory means you are opening a new plugin category
+* Adding an example under existing directories means you are adding an example for that category
+Make it work before submitting a PR
+* It is always frustrating to present new developers with sth not working! So better make it work before a PR :)
+Make it simple
+* This project is meant to bring new developers into plugin development, so make things simple and concise
+
 ## Acknowledgement
 Many of the starting examples I put in the list here are directly referenced from their repos on github. Here, I am only doing some commenting, and organizing work to put them together so it is easier for beginners read and learn. Since there are too many of them, I am not doing a creditting accounting here, but simply acknowledging all of them here in this section.
 
