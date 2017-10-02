@@ -16,7 +16,7 @@ To see how the plugin works, simply run
 ```
 mvn hpi:run
 ```
-you will be able to see how each plugin works on a local live Jenkins server  
+you will be able to see how each plugin works on a local live Jenkins server.  
 Then checkout the classes, and supporting files and understands how the plugin comes together.  
   
 It is suggested that you go through all examples in the list before you can write your own plugin. Simply go through some of them, and then focus on those examples related to your needs.
