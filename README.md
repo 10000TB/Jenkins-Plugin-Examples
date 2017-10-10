@@ -51,6 +51,7 @@ Representative implementations:
 `echo` step: `Jenkins-Plugin-Examles/workflow-basic-steps-plugin/src/main/java/org/jenkinsci/plugins/workflow/steps/EchoStep.java`  
 `pwd` step: `Jenkins-Plugin-Examles/workflow-basic-steps-plugin/src/main/java/org/jenkinsci/plugins/workflow/steps/PwdStep.java`  
 
+(todo:10000tb) add links for example ui plugins, builder plugins.
 
 ## Liscense
 
