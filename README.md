@@ -4,6 +4,7 @@ This is a collection of Jenkins plugin examples, which could be a great start po
   
   
 [Usage](#usage)  
+[Useful readings](#reading)  
 [Wishlist](#wishlist)  
 [Motivation](#motivation)  
 [Contribute or Request a new example](#contribute-or-request-a-new-example)  
@@ -20,6 +21,9 @@ you will be able to see how each plugin works on a local live Jenkins server.
 Then checkout the classes, and supporting files and understands how the plugin comes together.  
   
 It is suggested that you go through all examples in the list before you can write your own plugin. Simply go through some of them, and then focus on those examples related to your needs.
+
+## Reading
+* [Best Practices for Scalable Pipeline Code](https://jenkins.io/blog/2017/02/01/pipeline-scalability-best-practice/)
 
 ## Wishlist
 * Split big plugins into smaller examples demonstrating how each small functionality is implemented.
